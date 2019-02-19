@@ -1,0 +1,19 @@
+{
+  "name": "kampusinject",
+  "version": "0.0.1",
+  "description": "Wifiid Kampus Injector",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "radito",
+  "license": "MIT",
+  "devDependencies": {
+    "jquery": "^3.3.1",
+    "jsdom": "^13.0.0"
+  },
+  "dependencies": {
+    "cli-progress": "^2.1.0",
+    "request": "^2.88.0"
+  }
+}
