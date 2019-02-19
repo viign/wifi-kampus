@@ -19,3 +19,11 @@ https://welcome2.wifi.id/login/?gw_id=xxx-xx-xxx&client_mac=xx:xx:xx:xx:xx:xx&wl
 
 ```
 
+## Contribute
+
+```
+Punya banyak akun kampus ? Sumbangin aja ke aplikasi ini agar bisa digunain bareng.
+Cara : Buat Pull Request
+
+Data akun kampus ada di folder assets/
+```
