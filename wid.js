@@ -1,5 +1,5 @@
 const req = require("request");
-const gexurl = /var\surlx\s\s\s\s\s\s\s\s=\s'(.*?)';/mg;
+const gexurl = /\x76\x61\x72\x20\x75\x72\x6c\x78\x20\x20\x20\x20\x20\x20\x20\x20\x3d\x20'(.*?)';/mg;
 const read = require("readline");
 const fs = require("fs");
 const readi = read.createInterface({
