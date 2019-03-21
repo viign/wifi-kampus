@@ -27,3 +27,5 @@ Cara : Buat Pull Request
 
 Data akun kampus ada di folder assets/
 ```
+Jangan lupa mampir gan :
+https://github.com/radito
